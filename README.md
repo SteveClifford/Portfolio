@@ -1,6 +1,6 @@
 # Portfolio
 # Fintech Portfolio
-!{}(https://github.com/SteveClifford/Portfolio/blob/379d88bff109a91d2ebb4ae60fa0b4e671778ded/Ethereum.png)
+![Ethereum](Ethereum.png)
 ## Ethereum
 ### Table of Contents
 
